@@ -1,0 +1,1 @@
+console.log(`Nda ${1+1}`);
